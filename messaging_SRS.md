@@ -14,17 +14,17 @@ The user can either sign up for an account by providing necessary information--s
 password, and e-mail address--or sign into a pre-existing account using the correct log-in information.
 Once the user is signed in, he/she can send & recieve messages to other users and post statuses.
 
-## Algorithms, Processing, and Conditions:\n
--At the site's home page, the user can select to sign into a pre-existing account or create a new account.
--If the user chooses to create a new account, he/she is taken to a form where he/she can enter necessary
+## Algorithms, Processing, and Conditions:
+- At the site's home page, the user can select to sign into a pre-existing account or create a new account.
+- If the user chooses to create a new account, he/she is taken to a form where he/she can enter necessary
 information--such as a username, password, and e-mail address.
--Information for a new account is checked against a database to ensure it does not already exist.
--If the provided information for a new account is acceptable, the information is added to the database
+- Information for a new account is checked against a database to ensure it does not already exist.
+- If the provided information for a new account is acceptable, the information is added to the database
 and the user is automatically signed in.
--If there is any problems with the user-provided information--such as the information already being in use
+- If there is any problems with the user-provided information--such as the information already being in use
 or the user not filling in a required field--the system provides an appropriate error message.
--When signed in, the user is taken to their home page, which shows their posts and status-updates.
--While at their homepage, the user can create posts, update his/her status, see how many private messages
+- When signed in, the user is taken to their home page, which shows their posts and status-updates.
+- While at their homepage, the user can create posts, update his/her status, see how many private messages
 he/she has, and search for other users.
 -The user can create a new post on his/her homepage by clicking the "New Post" button.
 -After clicking the "New Post" button, he/she is taken to another page where he/she can enter text
