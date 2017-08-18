@@ -8,12 +8,13 @@ __Online Messaging System__
 ## Purpose:
 Online application that allows users to create an account, send & recieve messages, 
 post statuses and so on.
-## Program Procedures:\n
+
+## Program Procedures:
 The user can either sign up for an account by providing necessary information--such as a username,
 password, and e-mail address--or sign into a pre-existing account using the correct log-in information.
 Once the user is signed in, he/she can send & recieve messages to other users and post statuses.
-\n
-##Algorithms, Processing, and Conditions:\n
+
+## Algorithms, Processing, and Conditions:\n
 -At the site's home page, the user can select to sign into a pre-existing account or create a new account.
 -If the user chooses to create a new account, he/she is taken to a form where he/she can enter necessary
 information--such as a username, password, and e-mail address.
