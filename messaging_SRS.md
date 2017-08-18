@@ -1,6 +1,6 @@
 # Requirements Document
-## Devon Moulter, John Johnson
-## August 18, 2017
+Devon Moulter, John Johnson
+August 18, 2017
 
 ## Application Title:
 __ Online Messaging System
