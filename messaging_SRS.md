@@ -1,5 +1,5 @@
 # Requirements Document
-Devon Moulter, John Johnson
+Devon Moulter, John Johnson /n
 August 18, 2017
 
 ## Application Title:
