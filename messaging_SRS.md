@@ -1,4 +1,4 @@
-# Requirements Document\n
+# Requirements Document
 ##Devon Moulter, John Johnson\n
 ##August 18, 2017\n\n
 ##Application Title:\n
