@@ -1,9 +1,11 @@
 # Requirements Document
-##Devon Moulter, John Johnson\n
-##August 18, 2017\n\n
-##Application Title:\n
-Online Messaging System\n\n
-##Purpose:\n
+## Devon Moulter, John Johnson
+## August 18, 2017
+
+## Application Title:
+__ Online Messaging System
+
+## Purpose:
 Online application that allows users to create an account, send & recieve messages, 
 post statuses and so on.\n
 ##Program Procedures:\n
