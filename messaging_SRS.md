@@ -2,8 +2,7 @@
 Devon Moulter, John Johnson  
 August 18, 2017
 
-## Application Title:
-__Online Messaging System__
+## Application Title: Online Messaging System
 
 ## Purpose:
 Online application that allows users to create an account, send & recieve messages, 
